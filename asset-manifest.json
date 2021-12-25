@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ssozie/static/css/main.073c9b0a.css",
+    "main.js": "/ssozie/static/js/main.691fb80f.js",
+    "static/js/787.cfd8f164.chunk.js": "/ssozie/static/js/787.cfd8f164.chunk.js",
+    "static/media/bg.png": "/ssozie/static/media/bg.615383da7939441bf11f.png",
+    "static/media/logo.svg": "/ssozie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ssozie/index.html",
+    "main.073c9b0a.css.map": "/ssozie/static/css/main.073c9b0a.css.map",
+    "main.691fb80f.js.map": "/ssozie/static/js/main.691fb80f.js.map",
+    "787.cfd8f164.chunk.js.map": "/ssozie/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.691fb80f.js"
+  ]
+}
